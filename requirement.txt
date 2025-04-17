@@ -1,0 +1,6 @@
+selenium                # automation
+pytest                  # Python testing framework
+pytest-html             # Generates HTML reports for pytest
+pytest-xdist            # Enables parallel test execution
+openpyxl                # Excel support for reading and writing .xlsx files
+allure-pytest
